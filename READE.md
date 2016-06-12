@@ -1,4 +1,5 @@
 # git½Ì³Ì
 - feature-A
 - this is feature-B
-- feature-C
+- remove line feature-C
+- test line from local host
